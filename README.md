@@ -1,5 +1,5 @@
 # CVE-nu11secur1ty
-![]([https://github.com/logan-cote/CVEs/blob/main/logo.webp])
+![]([]https://github.com/logan-cote/CVEs/blob/main/logo.webp)
 
 
 ## Link table of Analysis Description:
